@@ -1,4 +1,4 @@
-Mlops-tut
+Mlops-tutorial
 ==============================
 
 End_to_end 
